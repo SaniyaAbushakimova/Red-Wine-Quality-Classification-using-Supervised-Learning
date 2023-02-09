@@ -17,10 +17,10 @@
 
 ### Machine Learning tools
 - Selected models (Logistic Regression, K-NN, Kernelized SVM, Random Forest);
-- Evaluation Metric (Accuracy, F1, precision, recall);
-- Hyperparameter Tuning;
+- Evaluation Metric (Accuracy, F1, Precision, Recall);
+- Hyperparameter tuning;
 - Checking for overfitting;
-- Error analysis (ROC curves, Confusion Matrix, Feature Importance.
+- Error Analysis (ROC curves, Confusion Matrix, Feature Importance).
 
 ### Content
 - `Project_2/Project_2_solution.ipynb`- the project report and a code written in `Python`.
