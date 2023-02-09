@@ -3,9 +3,9 @@
 ### Purpose
 - Understand the relationship between the quality of red wine and its chemical properties
 - Answer the following research questions:
---*What is the difference between low-quality and high-quality red wine in mean acidity, which include fixed acidity, volatile acidity, citric acid, and pH?*
---*Does alcohol have a positive correlation with red wine quality?*
---*What is the proportion of high-quality red wines whose alcohol concentration is larger than the average? What is the proportion of low-quality red wines whose alcohol concentration is lower than the average?*
+  - *What is the difference between low-quality and high-quality red wine in mean acidity, which include fixed acidity, volatile acidity, citric acid, and pH?*
+  - *Does alcohol have a positive correlation with red wine quality?*
+  - *What is the proportion of high-quality red wines whose alcohol concentration is larger than the average? What is the proportion of low-quality red wines whose alcohol concentration is lower than the average?*
 
 ### Content
 - `Project_1/Project_1_solution.ipynb`- the project report and a code written in `Python`.
