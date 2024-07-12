@@ -1,4 +1,7 @@
 ## Project_1
+
+Project 1 completed on March 17, 2022.
+
 **Project Type**: Exploratory Data Analysis
 ### Purpose
 - Understand the relationship between the quality of red wine and its chemical properties
@@ -11,6 +14,9 @@
 - `Project_1/Project_1_solution.ipynb`- the project report and a code written in `Python`.
 
 ## Project_2
+
+Project 2 completed on May 8, 2022.
+
 **Project Type**: Classification problem
 ### Purpose
 - Construct a classification task that will predict the quality of red wine based on its chemical properties.
