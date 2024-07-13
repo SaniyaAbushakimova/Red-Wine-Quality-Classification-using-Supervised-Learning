@@ -2,7 +2,7 @@
 
 Project 1 completed on March 17, 2022.
 
-**Project Type**: Exploratory Data Analysis
+**Project Type**: Exploratory Data Analysis 
 ### Purpose
 - Understand the relationship between the quality of red wine and its chemical properties
 - Answer the following research questions:
